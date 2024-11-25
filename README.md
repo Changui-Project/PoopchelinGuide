@@ -43,20 +43,13 @@
 
 | 메인 지도 페이지 | 화장실 팝업 | 길찾기 | 리뷰 등록 성공 | 리뷰 없는 화장실/쓰레기통 |
 |:--:| :--:| :--: | :--: | :--: |
-| ![image](https://github.com/user-attachments/assets/1298eaef-2527-496e-87b8-df3bc97844c6)
- |![image](https://github.com/user-attachments/assets/c4cd6f1a-c9d5-41ec-be33-177ac05c4399)
- | ![image](https://github.com/user-attachments/assets/b64b9c7c-347c-4400-a752-eb64f77f21a5)
-  | ![image](https://github.com/user-attachments/assets/7cad38b8-e195-4e92-a78e-b4eb856f81fd)
- |![image](https://github.com/user-attachments/assets/031b36f8-2100-4636-9311-7e89b41acbcd)
- |
+| ![image](https://github.com/user-attachments/assets/1298eaef-2527-496e-87b8-df3bc97844c6) |![image](https://github.com/user-attachments/assets/c4cd6f1a-c9d5-41ec-be33-177ac05c4399) | ![image](https://github.com/user-attachments/assets/b64b9c7c-347c-4400-a752-eb64f77f21a5) | ![image](https://github.com/user-attachments/assets/7cad38b8-e195-4e92-a78e-b4eb856f81fd) |![image](https://github.com/user-attachments/assets/031b36f8-2100-4636-9311-7e89b41acbcd) |
 
 | 리뷰 페이지 | 리뷰 삭제 | 리뷰 등록 |
 |:--:| :--: | :--:|
-|![image](https://github.com/user-attachments/assets/f9baf3cb-c2f6-49bd-81ce-a614adf46603)
- | ![image](https://github.com/user-attachments/assets/834992a7-41ef-4725-b6c0-94a0bc3fd869)
- | ![image](https://github.com/user-attachments/assets/a5986805-c93e-4972-bf4b-64b57a1544a8)|
+|![image](https://github.com/user-attachments/assets/f9baf3cb-c2f6-49bd-81ce-a614adf46603) | ![image](https://github.com/user-attachments/assets/834992a7-41ef-4725-b6c0-94a0bc3fd869) | ![image](https://github.com/user-attachments/assets/a5986805-c93e-4972-bf4b-64b57a1544a8)|
 
-## 📚 Tech Stack
+## Tech Stack
 <div align=center >
 
 [개발 문서](https://wool-magpie-f47.notion.site/Poopcheline-Guide-56b40099b67e4ee986b6d36a98d7109c?pvs=4)  
